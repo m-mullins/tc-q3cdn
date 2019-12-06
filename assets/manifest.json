@@ -1,12 +1,22 @@
 [
     {
         "name": "baseq3/pak100.pk3",
-        "compressed": 15135364,
-        "checksum": 3132596859
+        "compressed": 15135360,
+        "checksum": 3208222178
     },
     {
         "name": "t/pak100.pk3",
-        "compressed": 52778510,
-        "checksum": 2340738350
+        "compressed": 49998252,
+        "checksum": 3552088976
+    },
+    {
+        "name": "t/pak101.pk3",
+        "compressed": 4174968,
+        "checksum": 2838492066
+    },
+    {
+        "name": "t/pak102.pk3",
+        "compressed": 8215850,
+        "checksum": 3752019973
     }
 ]
